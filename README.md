@@ -6,7 +6,6 @@
 --- | --- 
 `language` | `Python, Kotlin`
 `frameworks` | `$Django$`
-``
 
 
 [![codewars](https://www.codewars.com/users/dar1usss/badges/large)](https://www.codewars.com/users/username)
