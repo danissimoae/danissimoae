@@ -4,7 +4,7 @@
 
 `about me` | `...`
 --- | --- 
-(https://github.com/danissimoae/Algorithms-contests-cheat-sheets)[Алгоритмы и решения] | `Python`
+(https://github.com/danissimoae/Algorithms-contests-cheat-sheets)[Алгоритмы и решения]| `Python`
 `language` | `Python, Kotlin`
 `frameworks` | `Django`
 
