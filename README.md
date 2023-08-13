@@ -4,9 +4,8 @@
 
 `about me` | `...`
 --- | --- 
-[Алгоритмы и решения] (https://github.com/danissimoae/Algorithms-contests-cheat-sheets)| `Python`
+[`Algorithms & solutions`](https://github.com/danissimoae/Algorithms-contests-cheat-sheets)| `Python`
 `language` | `Python, Kotlin`
 `frameworks` | `Django`
 
 [![codewars](https://www.codewars.com/users/dar1usss/badges/large)](https://www.codewars.com/users/username)
-[Алгоритмы и решения](https://github.com/danissimoae/Algorithms-contests-cheat-sheets)
