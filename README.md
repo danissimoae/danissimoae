@@ -6,7 +6,7 @@
 --- | --- 
 `now:`| `studying` 
 `languages` | `Python, Kotlin`
-`frameworks` | `Django, Flask`
+`frameworks` | `Flask, Django`
 
 [Algorithms & solutions](https://github.com/danissimoae/Algorithms-contests-cheat-sheets)
 
