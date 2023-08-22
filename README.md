@@ -4,7 +4,7 @@
 
 `about me` | `...`
 --- | --- 
-`now am:`| `studying` 
+`now:`| `studying` 
 `languages` | `Python, Kotlin`
 `frameworks` | `Django, Flask`
 
