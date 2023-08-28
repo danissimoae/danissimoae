@@ -1,11 +1,10 @@
 <h1 align="center"> Glad too see you. Am Darius </a> 
 <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/thunder.gif" height="32"/></h1>
 
-`about me` | `...`
---- | --- 
-`now:`| `studying` 
-`languages` | `Python, Kotlin`
-`frameworks` | `Flask, Django etc.`
+`about me / `
+`languages: ...... python, kotlin`
+`frameworks: ..... flask, django`
+
 
 [Algorithms & solutions](https://github.com/danissimoae/Algorithms-contests-cheat-sheets)
 
