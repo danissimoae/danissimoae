@@ -9,4 +9,4 @@
 
 [Algorithms & solutions](https://github.com/danissimoae/Algorithms-contests-cheat-sheets)
 
-[![codewars](https://www.codewars.com/users/dar1usss/badges/small)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/dar1usss/badges/large)](https://www.codewars.com/users/username)
