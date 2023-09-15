@@ -4,7 +4,7 @@
 `about me` | `...`
 --- | ---  
 `languages` | `Python, Kotlin, C++`
-`frameworks` | `Django, Flask, FastAPI etc.`
+`frameworks` | `FastAPI, Flask, Django etc.`
 
 
 [Algorithms & solutions](https://github.com/danissimoae/Algorithms-contests-cheat-sheets)
