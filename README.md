@@ -3,8 +3,8 @@
 
 `about me` | `...`
 --- | ---  
-`languages` | `Python, Kotlin, C++`
-`frameworks` | `FastAPI, Flask, Django etc.`
+`main` | `Python backend + front`
+`frameworks` | `FastAPI, Flask, Django`
 
 
 [Algorithms & solutions](https://github.com/danissimoae/Algorithms-contests-cheat-sheets)
