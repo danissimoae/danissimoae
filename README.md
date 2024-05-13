@@ -3,7 +3,7 @@
 
 `about me` | `...`
 --- | ---  
-`main` | `backend`
+`stack` | `Go / Python`
 `....` | `....`
 
 
